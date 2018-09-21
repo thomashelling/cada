@@ -8,4 +8,5 @@ For (1), Python package <a href="https://github.com/taynaud/python-louvain">Pyth
 For (2), Python package <a href="https://pypi.org/project/infomap/">Infomap</a> is used.
 
 [1] Blondel, V.D., Guillaume, J.L., Lambiotte, R., Lefebvre, E.: Fast unfolding of communities inlarge networks. Journal of Statistical Mechanics: Theory and Experiment10008(10), 6 (2008)
+
 [2] Rosvall, M., Bergstrom, C.: Maps of random walks on complex networks reveal communitystructure. Proceedings of National Academy of Sciences,105(4), 1118–1123 (2008)
